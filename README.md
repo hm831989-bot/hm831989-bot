@@ -1,7 +1,6 @@
 # ⚡ Hey, I'm Amir — aka Tony Stark in training
 
-> `J.A.R.V.I.S, load the GitHub profile...` — `Yes, sir. Mark IV ready.`
-
+> 
 I'm building my own **JARVIS** — Python bots, automation, AI agents — and contributing to real open-source like **n8n** (203k★).
 
 ### 🦾 Currently building
@@ -24,4 +23,4 @@ I'm building my own **JARVIS** — Python bots, automation, AI agents — and co
 > *“Part of the journey is the end... but my journey is just starting.” — T.S.*
 
 ---
-⚡ *P.S. If you're a maintainer reading this: I read CONTRIBUTINGs, write tests, and don't break builds. Hire your friendly neighborhood Stark.*
+⚡ *P.S. If you're a maintainer reading this: I read CONTRIBUTINGs, write tests, and don't break builds.*

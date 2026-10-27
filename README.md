@@ -6,7 +6,6 @@ I'm building my own **JARVIS** — Python bots, automation, AI agents — and co
 ### 🦾 Currently building
 - 🤖 **JARVIS Mark 4** — personal AI assistant (Python)
 - 🧠 **cyborg** — my public Python playground
-- � workflow automation in **n8n** — [my PR #37856](https://github.com/n8n-io/n8n/pull/37856) `fix: validate inputs in expression extensions`
 
 ### 🛠️ Stark Tech Stack
 `Python` `TypeScript` `JavaScript` `n8n` `Ollama` `Git` `Linux`
@@ -16,7 +15,6 @@ I'm building my own **JARVIS** — Python bots, automation, AI agents — and co
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hm831989-bot&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🎯 Mission log
-- [x] First PR to n8n — merged soon™
 - [ ] Jarvis answers before I ask
 - [ ] 100 followers without an arc reactor
 
